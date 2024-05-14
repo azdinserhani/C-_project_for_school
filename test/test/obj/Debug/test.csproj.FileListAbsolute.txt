@@ -1,0 +1,15 @@
+C:\Users\azdin\AppData\Local\Temporary Projects\test\bin\Debug\test.exe
+C:\Users\azdin\AppData\Local\Temporary Projects\test\bin\Debug\test.pdb
+C:\Users\azdin\AppData\Local\Temporary Projects\test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\azdin\AppData\Local\Temporary Projects\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\azdin\AppData\Local\Temporary Projects\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\azdin\AppData\Local\Temporary Projects\test\obj\Debug\test.exe
+C:\Users\azdin\AppData\Local\Temporary Projects\test\obj\Debug\test.pdb
+C:\Users\azdin\OneDrive\Bureau\project C#\test\test\obj\Debug\test.exe
+C:\Users\azdin\OneDrive\Bureau\project C#\test\test\obj\Debug\test.pdb
+C:\Users\azdin\OneDrive\Bureau\project C#\test\test\bin\Debug\test.exe
+C:\Users\azdin\OneDrive\Bureau\project C#\test\test\bin\Debug\test.pdb
+C:\Users\azdin\OneDrive\Bureau\project C#\test\test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\azdin\OneDrive\Bureau\project C#\test\test\obj\Debug\test.Form1.resources
+C:\Users\azdin\OneDrive\Bureau\project C#\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\azdin\OneDrive\Bureau\project C#\test\test\obj\Debug\test.csproj.GenerateResource.Cache

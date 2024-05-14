@@ -1,0 +1,16 @@
+F:\project C#\gestio_compte\gestio_compte\bin\Debug\gestio_compte.exe
+F:\project C#\gestio_compte\gestio_compte\bin\Debug\gestio_compte.pdb
+F:\project C#\gestio_compte\gestio_compte\obj\Debug\ResolveAssemblyReference.cache
+F:\project C#\gestio_compte\gestio_compte\obj\Debug\gestio_compte.Form1.resources
+F:\project C#\gestio_compte\gestio_compte\obj\Debug\gestio_compte.Properties.Resources.resources
+F:\project C#\gestio_compte\gestio_compte\obj\Debug\gestio_compte.csproj.GenerateResource.Cache
+F:\project C#\gestio_compte\gestio_compte\obj\Debug\gestio_compte.exe
+F:\project C#\gestio_compte\gestio_compte\obj\Debug\gestio_compte.pdb
+D:\project C#\gestio_compte\gestio_compte\obj\Debug\gestio_compte.exe
+D:\project C#\gestio_compte\gestio_compte\obj\Debug\gestio_compte.pdb
+D:\project C#\gestio_compte\gestio_compte\bin\Debug\gestio_compte.exe
+D:\project C#\gestio_compte\gestio_compte\bin\Debug\gestio_compte.pdb
+D:\project C#\gestio_compte\gestio_compte\obj\Debug\ResolveAssemblyReference.cache
+D:\project C#\gestio_compte\gestio_compte\obj\Debug\gestio_compte.Form1.resources
+D:\project C#\gestio_compte\gestio_compte\obj\Debug\gestio_compte.Properties.Resources.resources
+D:\project C#\gestio_compte\gestio_compte\obj\Debug\gestio_compte.csproj.GenerateResource.Cache

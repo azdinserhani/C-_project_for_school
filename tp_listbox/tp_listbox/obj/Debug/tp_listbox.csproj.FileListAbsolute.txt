@@ -1,0 +1,16 @@
+F:\project C#\tp_listbox\tp_listbox\bin\Debug\tp_listbox.exe
+F:\project C#\tp_listbox\tp_listbox\bin\Debug\tp_listbox.pdb
+F:\project C#\tp_listbox\tp_listbox\obj\Debug\ResolveAssemblyReference.cache
+F:\project C#\tp_listbox\tp_listbox\obj\Debug\tp_listbox.Form1.resources
+F:\project C#\tp_listbox\tp_listbox\obj\Debug\tp_listbox.Properties.Resources.resources
+F:\project C#\tp_listbox\tp_listbox\obj\Debug\tp_listbox.csproj.GenerateResource.Cache
+F:\project C#\tp_listbox\tp_listbox\obj\Debug\tp_listbox.exe
+F:\project C#\tp_listbox\tp_listbox\obj\Debug\tp_listbox.pdb
+D:\project C#\tp_listbox\tp_listbox\obj\Debug\tp_listbox.exe
+D:\project C#\tp_listbox\tp_listbox\obj\Debug\tp_listbox.pdb
+D:\project C#\tp_listbox\tp_listbox\bin\Debug\tp_listbox.exe
+D:\project C#\tp_listbox\tp_listbox\bin\Debug\tp_listbox.pdb
+D:\project C#\tp_listbox\tp_listbox\obj\Debug\ResolveAssemblyReference.cache
+D:\project C#\tp_listbox\tp_listbox\obj\Debug\tp_listbox.Form1.resources
+D:\project C#\tp_listbox\tp_listbox\obj\Debug\tp_listbox.Properties.Resources.resources
+D:\project C#\tp_listbox\tp_listbox\obj\Debug\tp_listbox.csproj.GenerateResource.Cache

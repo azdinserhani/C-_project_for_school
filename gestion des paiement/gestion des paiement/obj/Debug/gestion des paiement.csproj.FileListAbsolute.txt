@@ -1,0 +1,20 @@
+F:\project C#\gestion des paiement\gestion des paiement\bin\Debug\gestion des paiement.exe
+F:\project C#\gestion des paiement\gestion des paiement\bin\Debug\gestion des paiement.pdb
+F:\project C#\gestion des paiement\gestion des paiement\obj\Debug\ResolveAssemblyReference.cache
+F:\project C#\gestion des paiement\gestion des paiement\obj\Debug\gestion_des_paiement.Form1.resources
+F:\project C#\gestion des paiement\gestion des paiement\obj\Debug\gestion_des_paiement.Properties.Resources.resources
+F:\project C#\gestion des paiement\gestion des paiement\obj\Debug\gestion des paiement.csproj.GenerateResource.Cache
+F:\project C#\gestion des paiement\gestion des paiement\obj\Debug\gestion des paiement.exe
+F:\project C#\gestion des paiement\gestion des paiement\obj\Debug\gestion des paiement.pdb
+F:\project C#\gestion des paiement\gestion des paiement\obj\Debug\gestion_des_paiement.Form2.resources
+F:\project C#\gestion des paiement\gestion des paiement\obj\Debug\gestion_des_paiement.Form3.resources
+D:\project C#\gestion des paiement\gestion des paiement\obj\Debug\gestion des paiement.exe
+D:\project C#\gestion des paiement\gestion des paiement\obj\Debug\gestion des paiement.pdb
+D:\project C#\gestion des paiement\gestion des paiement\bin\Debug\gestion des paiement.exe
+D:\project C#\gestion des paiement\gestion des paiement\bin\Debug\gestion des paiement.pdb
+D:\project C#\gestion des paiement\gestion des paiement\obj\Debug\ResolveAssemblyReference.cache
+D:\project C#\gestion des paiement\gestion des paiement\obj\Debug\gestion_des_paiement.Form2.resources
+D:\project C#\gestion des paiement\gestion des paiement\obj\Debug\gestion_des_paiement.Form1.resources
+D:\project C#\gestion des paiement\gestion des paiement\obj\Debug\gestion_des_paiement.Form3.resources
+D:\project C#\gestion des paiement\gestion des paiement\obj\Debug\gestion_des_paiement.Properties.Resources.resources
+D:\project C#\gestion des paiement\gestion des paiement\obj\Debug\gestion des paiement.csproj.GenerateResource.Cache

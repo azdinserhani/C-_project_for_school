@@ -1,0 +1,16 @@
+C:\Users\azdin\AppData\Local\Temporary Projects\gestion_des_note\bin\Debug\gestion_des_note.exe
+C:\Users\azdin\AppData\Local\Temporary Projects\gestion_des_note\bin\Debug\gestion_des_note.pdb
+C:\Users\azdin\AppData\Local\Temporary Projects\gestion_des_note\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\azdin\AppData\Local\Temporary Projects\gestion_des_note\obj\Debug\gestion_des_note.Form1.resources
+C:\Users\azdin\AppData\Local\Temporary Projects\gestion_des_note\obj\Debug\gestion_des_note.Properties.Resources.resources
+C:\Users\azdin\AppData\Local\Temporary Projects\gestion_des_note\obj\Debug\gestion_des_note.csproj.GenerateResource.Cache
+C:\Users\azdin\AppData\Local\Temporary Projects\gestion_des_note\obj\Debug\gestion_des_note.exe
+C:\Users\azdin\AppData\Local\Temporary Projects\gestion_des_note\obj\Debug\gestion_des_note.pdb
+C:\Users\azdin\OneDrive\Bureau\project C#\gestion_des_note\gestion_des_note\obj\Debug\gestion_des_note.exe
+C:\Users\azdin\OneDrive\Bureau\project C#\gestion_des_note\gestion_des_note\obj\Debug\gestion_des_note.pdb
+C:\Users\azdin\OneDrive\Bureau\project C#\gestion_des_note\gestion_des_note\bin\Debug\gestion_des_note.exe
+C:\Users\azdin\OneDrive\Bureau\project C#\gestion_des_note\gestion_des_note\bin\Debug\gestion_des_note.pdb
+C:\Users\azdin\OneDrive\Bureau\project C#\gestion_des_note\gestion_des_note\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\azdin\OneDrive\Bureau\project C#\gestion_des_note\gestion_des_note\obj\Debug\gestion_des_note.Form1.resources
+C:\Users\azdin\OneDrive\Bureau\project C#\gestion_des_note\gestion_des_note\obj\Debug\gestion_des_note.Properties.Resources.resources
+C:\Users\azdin\OneDrive\Bureau\project C#\gestion_des_note\gestion_des_note\obj\Debug\gestion_des_note.csproj.GenerateResource.Cache

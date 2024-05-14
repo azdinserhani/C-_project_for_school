@@ -1,0 +1,26 @@
+C:\Users\azdin\AppData\Local\Temporary Projects\Gestion_des_etudients\bin\Debug\Gestion_des_etudients.exe
+C:\Users\azdin\AppData\Local\Temporary Projects\Gestion_des_etudients\bin\Debug\Gestion_des_etudients.pdb
+C:\Users\azdin\AppData\Local\Temporary Projects\Gestion_des_etudients\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\azdin\AppData\Local\Temporary Projects\Gestion_des_etudients\obj\Debug\Gestion_des_etudients.Form1.resources
+C:\Users\azdin\AppData\Local\Temporary Projects\Gestion_des_etudients\obj\Debug\Gestion_des_etudients.Properties.Resources.resources
+C:\Users\azdin\AppData\Local\Temporary Projects\Gestion_des_etudients\obj\Debug\Gestion_des_etudients.csproj.GenerateResource.Cache
+C:\Users\azdin\AppData\Local\Temporary Projects\Gestion_des_etudients\obj\Debug\Gestion_des_etudients.exe
+C:\Users\azdin\AppData\Local\Temporary Projects\Gestion_des_etudients\obj\Debug\Gestion_des_etudients.pdb
+C:\Users\azdin\OneDrive\Bureau\project C#\Gestion_des_etudients\Gestion_des_etudients\obj\Debug\Gestion_des_etudients.exe
+C:\Users\azdin\OneDrive\Bureau\project C#\Gestion_des_etudients\Gestion_des_etudients\obj\Debug\Gestion_des_etudients.pdb
+C:\Users\azdin\OneDrive\Bureau\project C#\Gestion_des_etudients\Gestion_des_etudients\bin\Debug\Gestion_des_etudients.exe
+C:\Users\azdin\OneDrive\Bureau\project C#\Gestion_des_etudients\Gestion_des_etudients\bin\Debug\Gestion_des_etudients.pdb
+C:\Users\azdin\OneDrive\Bureau\project C#\Gestion_des_etudients\Gestion_des_etudients\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\azdin\OneDrive\Bureau\project C#\Gestion_des_etudients\Gestion_des_etudients\obj\Debug\Gestion_des_etudients.Form1.resources
+C:\Users\azdin\OneDrive\Bureau\project C#\Gestion_des_etudients\Gestion_des_etudients\obj\Debug\Gestion_des_etudients.Properties.Resources.resources
+C:\Users\azdin\OneDrive\Bureau\project C#\Gestion_des_etudients\Gestion_des_etudients\obj\Debug\Gestion_des_etudients.csproj.GenerateResource.Cache
+C:\Users\azdin\OneDrive\Bureau\project C#\Gestion_des_etudients _database\Gestion_des_etudients\obj\Debug\Gestion_des_etudients.exe
+C:\Users\azdin\OneDrive\Bureau\project C#\Gestion_des_etudients _database\Gestion_des_etudients\obj\Debug\Gestion_des_etudients.pdb
+C:\Users\azdin\OneDrive\Bureau\project C#\Gestion_des_etudients _database\Gestion_des_etudients\bin\Debug\testDatabase.mdb
+C:\Users\azdin\OneDrive\Bureau\project C#\Gestion_des_etudients _database\Gestion_des_etudients\bin\Debug\Gestion_des_etudients.exe
+C:\Users\azdin\OneDrive\Bureau\project C#\Gestion_des_etudients _database\Gestion_des_etudients\bin\Debug\Gestion_des_etudients.pdb
+C:\Users\azdin\OneDrive\Bureau\project C#\Gestion_des_etudients _database\Gestion_des_etudients\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\azdin\OneDrive\Bureau\project C#\Gestion_des_etudients _database\Gestion_des_etudients\obj\Debug\Gestion_des_etudients.Form1.resources
+C:\Users\azdin\OneDrive\Bureau\project C#\Gestion_des_etudients _database\Gestion_des_etudients\obj\Debug\Gestion_des_etudients.Properties.Resources.resources
+C:\Users\azdin\OneDrive\Bureau\project C#\Gestion_des_etudients _database\Gestion_des_etudients\obj\Debug\Gestion_des_etudients.csproj.GenerateResource.Cache
+C:\Users\azdin\OneDrive\Bureau\project C#\Gestion_des_etudients _database\Gestion_des_etudients\bin\Debug\Gestion_des_etudients.exe.config
